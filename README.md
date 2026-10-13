@@ -149,6 +149,28 @@ HollowDrive es un proyecto desarrollado con un núcleo de software **propietario
 
 ---
 
+## Apoyar el Proyecto
+
+<div align="center">
+
+<img src="media/knight-cuenco.png" alt="Apoyar a HollowDrive" width="130px" /><br><br>
+
+**¿Te ha sido útil HollowDrive?**
+
+HollowDrive se mantiene y evoluciona gracias al apoyo de la comunidad. Si valoras el tiempo y esfuerzo dedicado a crear y optimizar este proyecto, puedes invitar a un café o realizar una donación para apoyar el desarrollo continuo y el mantenimiento de los servidores:
+
+<a href="https://ko-fi.com/savyn" target="_blank">
+  <img src="https://img.shields.io/badge/Donar%20en-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donar en Ko-fi" />
+</a>
+&nbsp;&nbsp;
+<a href="https://paypal.me/samucalata" target="_blank">
+  <img src="https://img.shields.io/badge/Donar%20con-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donar con PayPal" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 Desarrollado con 💜 por **[MVP-Savyn](https://github.com/MVP-Savyn)**
